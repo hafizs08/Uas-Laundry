@@ -1,7 +1,7 @@
 # UAS Teknologi Kolaborasi Pengembangan Perangkat Lunak
 ## Radiant Team
 
-![Radiant Team](https://drive.google.com/file/d/1mB7dmHmCKp-mHKwh1cBw-2s6Yz04563G/view?usp=sharing)
+![Radiant Team](https://github.com/hafizs08/Uas-Laundry/blob/develop/images/RadiantLaundry-logo.png)
 
 Radiant Laundry adalah Project UAS mata kuliah Teknologi Kolaborasi Pengembangan Perangkat Lunak yang dikembangkan oleh Radiant Team
 
